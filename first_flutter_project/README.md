@@ -1,16 +1,33 @@
-# first_flutter_project
+# First Flutter Project
 
-A new Flutter project.
+A simple Flutter application that displays a centered greeting message.
 
-## Getting Started
+## About This Project
 
-This project is a starting point for a Flutter application.
+This is my first Flutter project! It's a basic mobile app that shows:
+- "Hello World" text in bold
+- My name "Emerance Umurerwa" 
+- Clean white background with centered content
 
-A few resources to get you started if this is your first Flutter project:
+## What I Learned
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Setting up a Flutter project
+- Using basic Flutter widgets (MaterialApp, Scaffold, Column, Text)
+- Styling text with different fonts and colors
+- Centering content on the screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Make sure you have Flutter installed on your computer
+2. Open a terminal in the project directory
+3. Run the following command:
+   ```
+   flutter run
+   ```
+4. Choose your device (emulator or physical device)
+5. The app will launch and display the greeting!
+
+## Requirements
+
+- Flutter SDK
+- An emulator or physical device connected to your computer
